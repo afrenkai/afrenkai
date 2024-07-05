@@ -11,7 +11,7 @@
 | <div align = "center"> Statistics       </div>           |
 | <div align = "center"> Fintech      </div>               |
 | <div align = "center"> Sports Analytics    </div>        |
-| <div align = "center"> Educational Technology   </div>   |
+| <div align = "center"> LLMS in Special Educational Technology   </div>   |
 | <div align = "center"> Stochastic Optimization </div>   |
 | <div align = "center"> Natural Language Processing </div> |
 | <div align = "center"> LLM Training and Fine-Tuning </div> |
