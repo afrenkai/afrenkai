@@ -20,7 +20,7 @@
 | <div align = "center"> Applicability of NLP in Finance  </div> | 
 
 
-### Some Cool Stats from Vercel (I love `.ipynbs`)
+
 [![Artem's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=afrenkai&hide=&theme=algolia&show_icons=true)](https://github.com/afrenkai)
 
 </div>
