@@ -12,11 +12,8 @@
 | <div align = "center"> Statistics       </div>           |
 | <div align = "center"> Fintech      </div>               |
 | <div align = "center"> Sports Analytics    </div>        |
-| <div align = "center"> LLMS in Special Educational Technology   </div>   |
 | <div align = "center"> Stochastic Optimization </div>   |
 | <div align = "center"> LLM Training and Fine-Tuning </div> |
-| <div align = "center"> Embeddings-Based Fine-Tuning </div> |
-| <div align = "center"> Applicability of Disparate Distance Metrics for `K-Nearest` Algorithms </div>  | 
 | <div align = "center"> Applicability of NLP in Finance  </div> | 
 
 
