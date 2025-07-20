@@ -23,7 +23,7 @@
 | Revisiting Opposites (Teaching "word inversion" to a model) |
 | Slop LLM (Those who know, know) |
 | Finish RL for my PVZ AI Game, make it work with things that changed since 2023 ... GRPO, DPO, etc... |
-| Learn SDE, for when in 10 years I go broke and sell my soul to quan ... brownian motion, ito integrals, the whole 9 yd |
+| Learn SDE, for when in 10 years I go broke and sell my soul to quant ... brownian motion, ito integrals, the whole 9 yd |
 
 </div>
 
