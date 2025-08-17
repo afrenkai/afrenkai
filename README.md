@@ -10,6 +10,10 @@
 | <div align = "center"> Natural Language Processing </div> |
 | <div align = "center"> Statistics       </div>           |
 | <div align = "center"> Applicability of NLP in Finance  </div> | 
+| <div align = "center"> Information Retrieval </div> |
+| <div align = "center"> Reccomendation Systems </div> |
+| <div align = "center"> Search </div> |
+| <div align = "center"> Gradient-Free Reinforcement Learning </div> |
 
 ## More Info: 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=afrenkai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
